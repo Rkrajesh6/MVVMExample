@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoMVVMExample</string>
+    <string name="reload">Reload</string>
+    <string name="give_it_another_try">Give it another try</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="rajesh_yadav">Rajesh Yadav</string>
+</resources>
